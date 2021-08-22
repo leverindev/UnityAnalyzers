@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+EventSubscription/EventSubscription/bin/
+EventSubscription/EventSubscription/obj/
+EventSubscription/EventSubscription.Test/bin/
+EventSubscription/EventSubscription.Test/obj/
+UnityAnalyzers/UnityAnalyzers.Vsix/bin/
+UnityAnalyzers/UnityAnalyzers.Vsix/obj/
